@@ -1,3 +1,5 @@
 -Unix
 -Bash
 -Git
+javaScrip
+habilidades comportamentais
